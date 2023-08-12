@@ -48,7 +48,7 @@ The AI-Powered Physics Buddy Chatbot offers the following features:
 
 ## 5. Architecture
 The architecture of the AI-Powered Physics Buddy Chatbot consists of the following components:
-![Architecture]()
+![Architecture](https://github.com/sayakdeepghosh01/Physics-chatBot/blob/main/Images/diagram.png)
 - **User Interface:** The Streamlit-based web interface that users interact with.
 - **NLP Engine:** This component uses NLTK for text processing, Langchain for language enhancement, and the OpenAI API for generating responses.
 - **Vector Store:** Pinecone is used to store vectorized representations of physics concepts, allowing for efficient retrieval and quick responses.
