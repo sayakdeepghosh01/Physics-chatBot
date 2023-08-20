@@ -110,4 +110,6 @@ We would like to express our gratitude to the contributors, open-source communit
 - [Physics Data](https://ncert.nic.in/textbook.php?keph2=0-7)
 - [Docker Repository](https://hub.docker.com/r/sayakghosh01/physics-bot)
 - [GitHub Repository](https://github.com/sayakdeepghosh01/Physics-chatBot.git)
-- [Demo Chat with Mr. Einstein](insert_chat_demo_link_here)
+![demo chat](https://github.com/sayakdeepghosh01/Physics-chatBot/blob/main/Images/Chat1.jpeg)
+![demo chat 2](https://github.com/sayakdeepghosh01/Physics-chatBot/blob/main/Images/Chat2.jpeg)
+
