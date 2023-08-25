@@ -3,10 +3,10 @@ from sentence_transformers import SentenceTransformer
 import pinecone
 import openai
 import streamlit as st
-openai.api_key = "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"
+openai.api_key = "put your own api key" #create acc on open ai then create a own key and put it here
 model = SentenceTransformer('all-MiniLM-L12-v2')
 
-pinecone.init(api_key='e0af7c2a-e4a5-48de-8985-810e4967f75a', environment='asia-southeast1-gcp-free')
+pinecone.init(api_key='put your own api key', environment='asia##############')
 index = pinecone.Index('mr-einstein')
 
 def find_match(input):
